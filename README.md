@@ -9,10 +9,11 @@ thousands of genes. The `cai_estimate` value in Step 3.2 is also a simulated val
 
 I have noted in the Markdown sections wherever the data are simulated or where more explanation is needed.
 
-Two plots as results are shown below.
+The two result plots are shown below:
 
 
 ![](output1.png)
+
 
 
 
