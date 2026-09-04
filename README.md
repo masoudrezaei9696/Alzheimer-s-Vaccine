@@ -1,5 +1,5 @@
 Objective: Design and optimize a genetic construct for expressing the Aβ1-42 antigen in
-*Physcomitrella patens* (moss) as a potential platform for molecular pharming in Alzheimer’s vaccine research.
+*Physcomitrella patens* (moss) for molecular pharming applications in Alzheimer’s vaccine research.
 
 
 
